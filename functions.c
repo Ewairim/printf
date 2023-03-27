@@ -164,5 +164,5 @@ write(1, &z, 1);
 count++;
 }
 }
-return (count);
+return(count);
 }
